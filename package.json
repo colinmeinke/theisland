@@ -1,0 +1,19 @@
+{
+  "description": "This is the island",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "theisland",
+  "authors": [
+    "Colin Meinke <hello@colinmeinke.com> (http://colinmeinke.com)",
+    "David Winter <i.davidwinter@gmail.com> (http://davidwinter.me)",
+    "Luke Morton <lukemorton.dev@gmail.com> (http://lukemorton.co.uk)"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
