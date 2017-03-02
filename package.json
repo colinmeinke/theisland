@@ -1,8 +1,8 @@
 {
   "authors": [
-    "Colin Meinke <hello@colinmeinke.com> (http://colinmeinke.com)",
-    "David Winter <i.davidwinter@gmail.com> (http://davidwinter.me)",
-    "Luke Morton <lukemorton.dev@gmail.com> (http://lukemorton.co.uk)"
+    "Colin Meinke <hello@colinmeinke.com> (https://colinmeinke.com)",
+    "David Winter <i.davidwinter@gmail.com> (https://davidwinter.me)",
+    "Luke Morton <lukemorton.dev@gmail.com> (https://lukemorton.co.uk)"
   ],
   "description": "This is the island",
   "dependencies": {
